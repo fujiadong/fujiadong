@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * Description: <br/>
  * Date: 上午10:58:03 <br/>
  * 
- * @author dingP
+ * @author ding
  * @version
  * @see
  */
